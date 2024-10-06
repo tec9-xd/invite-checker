@@ -4,7 +4,7 @@
 InviteChecker is a lightweight python program to check the validity and stats of discord invite codes. 🚀
 
 
-![Image](https://i.imgur.com/0Z0Z0Z0.png)
+![Image](https://i.imgur.com/shut9kp.png)
 
 ## Consider leaving a ⭐ if you like this project!
 
